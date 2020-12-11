@@ -25,16 +25,17 @@ I am interested in Web Development, making sites that I think should be on [www]
 
 ### Recent Activity:
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 ### Important Repos:
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prakashaditya369&repo=visualizer&theme=vue-dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prakashaditya369&repo=FER_Doggomaniacs&theme=vue-dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prakashaditya369&repo=Project_Ekatra&theme=vue-dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prakashaditya369&repo=prakashaditya369.github.io&theme=vue-dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prakashaditya369&repo=Gender_predictor&theme=vue-dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prakashaditya369&repo=HaarCascadeTrainer&theme=vue-dark)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prakashaditya369&repo=visualizer&theme=vue-dark)](https://github.com/prakashaditya369/visualizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prakashaditya369&repo=FER_Doggomaniacs&theme=vue-dark)](https://github.com/prakashaditya369/FER_Doggomaniacs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prakashaditya369&repo=Project_Ekatra&theme=vue-dark)](https://github.com/prakashaditya369/Project_Ekatra)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prakashaditya369&repo=prakashaditya369.github.io&theme=vue-dark)](https://github.com/prakashaditya369/prakashaditya369.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prakashaditya369&repo=Gender_predictor&theme=vue-dark)](https://github.com/prakashaditya369/Gender_predictor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prakashaditya369&repo=HaarCascadeTrainer&theme=vue-dark)](https://github.com/prakashaditya369/HaarCascadeTrainer)
 
 
 <h3 align="left">Connect with me:</h3>
