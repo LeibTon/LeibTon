@@ -2,7 +2,7 @@
 
 ### Hi There 👋
 The name's **Aditya Prakash**. I am a student of Aeropace Engineering at Indian Institute of Technology, Kanpur.  
-I am interested in Web Development, making sites that I think should be on [www](https://www.w3.org/WWW/). I also love exploring various Deep Learning Models, automating boring stuffs and love talking to Phoenix (you will know about it in my projects). Sometimes, I also  code Physics and Maths Models visualising some fantastic aspects of Nature. Apart from coding and development stuffs, I love space explorations. Learn more about me and my projects at : [Leibton](https://prakashaditya369.gtihub.io)
+I am interested in Web Development, making sites that I think should be on [www](https://www.w3.org/WWW/). I also love exploring various Deep Learning Models, automating boring stuffs and love talking to Phoenix (you will know about it in my projects). Sometimes, I also  code Physics and Maths Models visualising some fantastic aspects of Nature. Apart from coding and development stuffs, I love space explorations. Learn more about me and my projects at : [Leibton](https://prakashaditya369.github.io)
 
 ### Fun Facts:
   
