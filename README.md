@@ -1,11 +1,11 @@
 ### Hi There 👋
 The name's **Aditya Prakash**. I am a student of Aerospace Engineering at Indian Institute of Technology, Kanpur.  
-I am interested in Web Development, making sites that I think should be on [www](https://www.w3.org/WWW/). I also love exploring various Deep Learning Models, automating boring stuffs and love talking to Phoenix (you will know about it in my projects). Sometimes, I also  code Physics and Maths Models visualising some fantastic aspects of Nature. Apart from coding and development stuffs, I love space explorations. Learn more about me and my projects at : [Leibton](https://prakashaditya369.github.io)
+I am interested in Web Development, making sites that I think should be on [www](https://www.w3.org/WWW/). I also love exploring various Deep Learning Models, automating boring stuffs and love talking to Phoenix (you will know about it in my projects). Sometimes, I also  code Physics and Maths Models visualising some fantastic aspects of Nature. Apart from coding and development stuffs, I am interested in SSTO's Vehicle (will develop many in future). Learn more about me and my projects at : [Leibton](https://prakashaditya369.github.io)
   
-- 🔤 Favourite Language: Python and Javascript
-- 💻 Favourite Operating System: Ubuntu
-- ⌨️ Favourite Text Editor: Text Editor(Ubuntu)
-- 🔢 Favourite Number: 369
+- 🔤 Language: Python and Javascript
+- 💻 Operating System: Ubuntu
+- ⌨️ Text Editor: Text Editor(Ubuntu)
+- 🔢 Number: 369
 
 Wanna Talk: [adityaap@iitk.ac.in](mailto:adityaap@iitk.ac.in)
 
