@@ -8,9 +8,9 @@ I am interested in Web Development, making sites that I think should be on [www]
 - 🔢 Number: 369
 
 Some of my sites:
-- [Project Ekatra](projectekatra.github.io)
-- [Visualizer](prakashaditya369.github.io/visualizer)
-- [Randomness](prakashaditya369.github.io/ramdomness)
+- [Project Ekatra](https://projectekatra.github.io)
+- [Visualizer](https://prakashaditya369.github.io/visualizer)
+- [Randomness](https://prakashaditya369.github.io/ramdomness)
 
 Wanna Talk: [adityaap@iitk.ac.in](mailto:adityaap@iitk.ac.in)
 
