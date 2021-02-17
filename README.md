@@ -15,7 +15,6 @@ Some of my sites:
 Wanna Talk: [adityaap@iitk.ac.in](mailto:adityaap@iitk.ac.in)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashaditya369&show_icons=true&locale=en&count_private=true&custom_title=What's Current Stats&theme=gotham" alt="prakashaditya369" /></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:prakashaditya144@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="leibton" height="30" width="40" /></a>
