@@ -10,7 +10,7 @@ I am interested in Web Development, making sites that I think should be on [www]
 Some of my sites:
 - [Project Ekatra](https://projectekatra.github.io)
 - [Visualizer](https://prakashaditya369.github.io/visualizer)
-- [Randomness](https://prakashaditya369.github.io/ramdomness)
+- [Randomness](https://prakashaditya369.github.io/randomness)
 
 Wanna Talk: [adityaap@iitk.ac.in](mailto:adityaap@iitk.ac.in)
 
