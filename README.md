@@ -5,7 +5,7 @@ I am interested in Web Development, making sites that I think should be on [www]
 - 🔤 Language: Python and Javascript
 - 💻 Operating System: Ubuntu
 - ⌨️ Text Editor: Text Editor(Ubuntu)
-- 🔢 Number: 369
+- 🔢 Number: 369 and 144
 
 Some of my sites:
 - [Project Ekatra](https://projectekatra.github.io)
