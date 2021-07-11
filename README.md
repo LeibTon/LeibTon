@@ -28,3 +28,5 @@ Wanna Talk: [adityaap@iitk.ac.in](mailto:adityaap@iitk.ac.in)
 <a href="https://instagram.com/_rickaditya_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_rickaditya_" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/legolas_ap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="legolas_ap" height="30" width="40" /></a>
 </p>
+
+#### Thanks.
