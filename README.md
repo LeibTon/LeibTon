@@ -29,4 +29,4 @@ Wanna Talk: [adityaap@iitk.ac.in](mailto:adityaap@iitk.ac.in)
 <a href="https://codeforces.com/profile/legolas_ap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="legolas_ap" height="30" width="40" /></a>
 </p>
 
-#### Thanks.
+#### Enjoy !!
