@@ -1,6 +1,6 @@
 ### Hi There 👋
 The name's **Aditya Prakash**. I am a student of Aerospace Engineering at Indian Institute of Technology, Kanpur.
-My interest lie in Astrodynamics and Rocket Propulsion with an inclination towards theoretical physics. Other than this, I am interested in Cognitive Psychology, Analysing Neuroimaging Data and Deep Learning Models. And I love Web development, making sites that I think should be on [www](https://www.w3.org/WWW/).
+My interest lie in Śpace Dynamics and Rocket Propulsion with an inclination towards theoretical physics. Other than this, I am interested in Cognitive Psychology, Analysing Neuroimaging Data and Deep Learning Models. And I love Web development, making sites that I think should be on [www](https://www.w3.org/WWW/).
   
 - 🔤 Language: Python and Javascript
 - 💻 Operating System: Ubuntu
