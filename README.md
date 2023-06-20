@@ -4,7 +4,7 @@ My interest lie in Śpace Dynamics and Rocket Propulsion with an inclination to
   
 - 🔤 Language: Python and Javascript
 - 💻 Operating System: Ubuntu
-- ⌨️ Text Editor: Text Editor(Ubuntu)
+- ⌨️ Text Editor: VS Code
 - 🔢 Number: 369 and 144
 
 Some of my sites:
