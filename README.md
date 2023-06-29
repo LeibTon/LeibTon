@@ -2,15 +2,6 @@
 The name's **Aditya Prakash**. I am a student of Aerospace Engineering at Indian Institute of Technology, Kanpur.
 My interest lie in Śpace Dynamics and Rocket Propulsion with an inclination towards theoretical physics. Other than this, I am interested in Cognitive Psychology, Analysing Neuroimaging Data and Deep Learning Models. And I love Web development, making sites that I think should be on [www](https://www.w3.org/WWW/).
   
-- 🔤 Language: Python and Javascript
-- 💻 Operating System: Ubuntu
-- ⌨️ Text Editor: VS Code
-- 🔢 Number: 369 and 144
-
-Some of my sites:
-- [Project Ekatra](https://projectekatra.github.io)
-- [Visualizer](https://prakashaditya369.github.io/visualizer)
-- [Randomness](https://prakashaditya369.github.io/randomness)
 
 Wanna Talk: [adityaap@iitk.ac.in](mailto:adityaap@iitk.ac.in)
 
