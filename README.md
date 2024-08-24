@@ -1,9 +1,9 @@
 ### Hi There 👋
-The name's **Aditya Prakash**. I am a student of Aerospace Engineering at Indian Institute of Technology, Kanpur.
-My interest lie in Śpace Dynamics and Rocket Propulsion with an inclination towards theoretical physics. Other than this, I am interested in Cognitive Psychology, Analysing Neuroimaging Data and Deep Learning Models. And I love Web development, making sites that I think should be on [www](https://www.w3.org/WWW/).
+The name's **Aditya Prakash**. I am a PhD in at Georgia Tech. I am working in Space Robotics, with focus on modelling and control design. I completed my Bachelors and Masters in Aerospace Engineering from Indian Institute of Technology, Kanpur.
+ I also enjoy designing websites, making sites that I think should be on [www](https://www.w3.org/WWW/).
   
 
-Wanna Talk: [adityaap@iitk.ac.in](mailto:adityaap@iitk.ac.in)
+Wanna Talk: [leibton@gatech.edu](mailto:leibton@gatech.edu)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeibTon&show_icons=true&locale=en&count_private=true&custom_title=What's Current Stats&theme=gotham" alt="LeibTon" /></p>
 <h3 align="left">Connect with me:</h3>
