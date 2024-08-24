@@ -1,5 +1,5 @@
 ### Hi There 👋
-The name's **Aditya Prakash**. I am a PhD in at Georgia Tech. I am working in Space Robotics, with focus on modelling and control design. I completed my Bachelors and Masters in Aerospace Engineering from Indian Institute of Technology, Kanpur.
+The name's **Aditya Prakash**. I am a PhD at Georgia Tech. I am working in Space Robotics, with focus on modelling and control design. I completed my Bachelors and Masters in Aerospace Engineering from Indian Institute of Technology, Kanpur.
  I also enjoy designing websites, making sites that I think should be on [www](https://www.w3.org/WWW/).
   
 
